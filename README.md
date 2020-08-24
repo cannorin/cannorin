@@ -2,6 +2,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cannorin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+1. listen to my mixes on Mixcloud](https://www.mixcloud.com/cannorin/)
+2. or [watch them on YouTube](https://www.youtube.com/playlist?list=PLrylRy5cg4LDmFBnxoCfgXyY0W_EH6uuf)
+3. ?
+4. profit
+
 <!--
 **cannorin/cannorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
