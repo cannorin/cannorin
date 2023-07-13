@@ -1,13 +1,13 @@
 <picture>
   <source
-    srcset="https://github-readme-stats-cannorin.vercel.app/api?username=cannorin&card_width=320&theme=github_dark_dimmed"
+    srcset="https://github-readme-stats-cannorin.vercel.app/api?username=cannorin&include_all_commits=true&card_width=320&theme=github_dark_dimmed"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-cannorin.vercel.app/api?username=cannorin&card_width=320"
+    srcset="https://github-readme-stats-cannorin.vercel.app/api?username=cannorin&include_all_commits=true&card_width=320"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 align="center" src="https://github-readme-stats-cannorin.vercel.app/api?username=cannorin&card_width=320" height=200 />
+  <img height=200 align="center" src="https://github-readme-stats-cannorin.vercel.app/api?username=cannorin&include_all_commits=true&card_width=320" />
 </picture>
 <picture>
   <source
