@@ -24,7 +24,7 @@
 ----
 
 1. [listen to my mixes on Mixcloud](https://www.mixcloud.com/cannorin/)
-2. [listen to my tracks on bandcamp](https://cannorin.bandcamp.com)
+2. [listen to my tracks on SoundCloud](https://soundcloud.com/cannorin)
 3. ?
 4. profit
 
