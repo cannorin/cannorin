@@ -15,7 +15,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-cannorin.vercel.app/api/top-langs?username=cannorin&layout=compactt&hide=html,css,javascript"
+    srcset="https://github-readme-stats-cannorin.vercel.app/api/top-langs?username=cannorin&layout=compact&hide=html,css,javascript"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats-cannorin.vercel.app/api/top-langs?username=cannorin&layout=compact&hide=html,css,javascript" />
