@@ -11,14 +11,14 @@
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats-cannorin.vercel.app/api/top-langs?username=cannorin&layout=compact&langs_count=8&card_width=320&theme=github_dark_dimmed"
+    srcset="https://github-readme-stats-cannorin.vercel.app/api/top-langs/?username=cannorin&layout=compact&card_width=320&theme=github_dark_dimmed&hide=css%2Chtml%2Cjavascript"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-cannorin.vercel.app/api/top-langs?username=cannorin&layout=compact&langs_count=8&card_width=320"
+    srcset="https://github-readme-stats-cannorin.vercel.app/api/top-langs/?username=cannorin&layout=compact&card_width=320&hide=css%2Chtml%2Cjavascript"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 align="center" src="https://github-readme-stats-cannorin.vercel.app/api/top-langs?username=cannorin&layout=compact&langs_count=8&card_width=320" />
+  <img src="https://github-readme-stats-cannorin.vercel.app/api/top-langs/?username=cannorin&layout=compact&card_width=320&hide=css%2Chtml%2Cjavascript" height=200 align="center" />
 </picture>
 
 ----
