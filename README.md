@@ -7,7 +7,7 @@
     srcset="https://github-readme-stats-cannorin.vercel.app/api?username=cannorin&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-cannorin.vercel.app/api?username=cannorin&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats-cannorin.vercel.app/api?username=cannorin&show_icons=true" />
 </picture>
 <picture>
   <source
@@ -18,7 +18,7 @@
     srcset="https://github-readme-stats-cannorin.vercel.app/api/top-langs?username=cannorin&layout=compact&hide=html,css,javascript"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-cannorin.vercel.app/api/top-langs?username=cannorin&layout=compact&hide=html,css,javascript" />
+  <img height=200 align="center" src="https://github-readme-stats-cannorin.vercel.app/api/top-langs?username=cannorin&layout=compact&hide=html,css,javascript" />
 </picture>
 
 1. [listen to my mixes on Mixcloud](https://www.mixcloud.com/cannorin/)
